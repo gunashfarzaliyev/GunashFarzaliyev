@@ -15,6 +15,8 @@ I'm a passionate and detail-oriented junior front-end developer with a love for 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
+
+
 ## 🌱 Currently Learning
 
 I am always eager to expand my skill set and stay up-to-date with the latest trends in front-end development. Currently, I'm diving deeper into:
