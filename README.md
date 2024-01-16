@@ -4,6 +4,7 @@
 
 I'm a passionate and detail-oriented junior front-end developer with a love for creating visually appealing and responsive web applications. My journey in web development started with a fascination for crafting engaging user experiences and has since evolved into a dedicated pursuit of excellence in front-end technologies.
 
+
 ## 🔧 Skills & Technologies
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -15,10 +16,11 @@ I'm a passionate and detail-oriented junior front-end developer with a love for 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
+<br />
+<br />
 
 
 ## 🌱 Currently Learning
-
 I am always eager to expand my skill set and stay up-to-date with the latest trends in front-end development. Currently, I'm diving deeper into:
 
 - Advanced React concepts
