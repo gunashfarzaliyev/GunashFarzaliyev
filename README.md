@@ -31,10 +31,10 @@ I am always eager to expand my skill set and stay up-to-date with the latest tre
 
 Here are a few projects I've worked on to showcase my skills:
 
-- [React Calculator](https://github.com/gunash-portfolio/Calculator-react): Simple Calculator is written in React
-- [Weather React App](https://github.com/gunash-portfolio/weather-app-react): Simple Weather App is written in React
+- [React Calculator](https://github.com/gunash-portfolio/Calculator-react): Simple Calculator is written in React.
+- [Weather React App](https://github.com/gunash-portfolio/weather-app-react): Simple Weather App is written in React.
 - [Currency Exchange](https://github.com/gunash-portfolio/currency_exchange): Simple Currency Exchange app is written in React.
-
+- [Node Modules Finder](https://github.com/gunash-portfolio/node-modules-finder): Automatically search for `node_modules` directories across your file system.
 
 
 [![Gunash Farzaliyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunashfarzaliyev)](https://github.com/gunashfarzaliyev/github-readme-stats)
