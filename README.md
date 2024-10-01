@@ -35,6 +35,7 @@ Here are a few projects I've worked on to showcase my skills:
 - [Weather React App](https://github.com/gunash-portfolio/weather-app-react): Simple Weather App is written in React.
 - [Currency Exchange](https://github.com/gunash-portfolio/currency_exchange): Simple Currency Exchange app is written in React.
 - [Node Modules Finder](https://github.com/gunash-portfolio/node-modules-finder): Automatically search for `node_modules` directories across your file system.
+- [Text Finder From PDF](https://github.com/gunash-portfolio/pdf-text-finder): You can search any text from PDF 
 
 
 [![Gunash Farzaliyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunashfarzaliyev)](https://github.com/gunashfarzaliyev/github-readme-stats)
